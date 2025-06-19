@@ -6,16 +6,17 @@
 🎨 Passionate about clean UI/UX, responsive design, and real-world applications  
 
 
-## 🌐 Socials
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/alfiansyah-cahyo-wicaksono" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:alfiansyahcahyow@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Gmail"/>
   </a>
 </p>
+
 
 
 # 💻 Tech Stack:
