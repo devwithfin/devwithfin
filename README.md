@@ -64,7 +64,6 @@
 </p>
 
 
-
-🐍 My Contribution Snake 
+## 🐍 My Contribution Snake 
 
 ![Snake animation](https://github.com/devwithfin/devwithfin/blob/output/github-contribution-grid-snake.svg)
