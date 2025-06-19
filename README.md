@@ -13,7 +13,7 @@
   </a>
   &nbsp;
   <a href="mailto:alfiansyahcahyow@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="30" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" alt="Gmail"/>
   </a>
 </p>
 
