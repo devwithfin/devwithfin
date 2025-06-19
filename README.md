@@ -69,8 +69,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwithfin&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-
+![Snake animation](https://github.com/devwithfin/devwithfin/blob/output/github-contribution-grid-snake.svg)
