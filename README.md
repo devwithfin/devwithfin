@@ -1,40 +1,76 @@
-# 💫 About Me:
-🎓 Currently studying Information Management  
-💻 Experience as a Frontend Developer using React.js, Tailwind CSS, and Figma to build responsive interfaces  
-🚀 Also skilled in backend development with PHP, CodeIgniter, Node.js, Express.js, and MySQL / SQL Server  
-🇮🇩 National Professional Certification as a Junior Web Developer & Database Administrator  
+# 👨‍💻 Hello Coders! I’m Alfiansyah | Jr. Web Developer  
+
+🚀 Experience as a Frontend Developer using React.js, Tailwind CSS, and Figma to build responsive interfaces  
+🛠️ Also skilled in backend development with Node.js, Express.js, CodeIgniter and MySQL / SQL Server  
+📜 National Professional Certification as a Junior Web Developer & Database Administrator  
 🎨 Passionate about clean UI/UX, responsive design, and real-world applications  
 
 
-## 🌐 Connect with Me
+## 💻 Tech Stack  
+<p align="left">
+
+<!-- 🌐 Frontend -->
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 5px;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin: 5px;" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 5px;" alt="React.js"/>
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" width="40" style="margin: 5px;" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="45" style="margin: 5px;" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" style="margin: 5px;" alt="Figma"/>
+</div>
+
+<!-- ⚙️ Backend -->
+<div style="margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin: 5px;" alt="Node.js"/>
+  <img src="https://img.icons8.com/fluency/48/express-js.png" width="45" style="margin: 5px;" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" style="margin: 5px;" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" style="margin: 5px;" alt="CodeIgniter"/>
+</div>
+
+<!-- 🛢️ Database -->
+<div style="margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin: 5px;" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="45" style="margin: 5px;" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" style="margin: 5px;" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="margin: 5px;" alt="PostgreSQL"/>
+</div>
+
+<!-- 🧰 Tools -->
+<div style="margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin: 5px;" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" style="margin: 5px;" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" style="margin: 5px;" alt="Notion"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" width="45" style="margin: 5px;" alt="Microsoft Office"/>
+</div>
+
+<!-- 🧰 Other -->
+<div style="margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin: 5px;" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" style="margin: 5px;" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/wordpress.png" width="45" style="margin: 5px;" alt="WordPress"/>
+</div>
+
+</p>
+
+
+## 🌐 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/alfiansyah-cahyo-wicaksono" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="mailto:alfiansyahcahyow@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwithfin&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devwithfin&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devwithfin&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devwithfin&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=devwithfin&icon=0&color=0)](https://visitcount.itsvg.in)
