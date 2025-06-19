@@ -1,4 +1,4 @@
-# 👨‍💻 Hello Coders! I’m Alfiansyah | Jr. Web Developer  
+# 👨‍💻 Hello Coders! I’m Alfiansyah 
 
 🚀 Experience as a Frontend Developer using React.js, Tailwind CSS, and Figma to build responsive interfaces  
 🛠️ Also skilled in backend development with Node.js, Express.js, CodeIgniter and MySQL / SQL Server  
