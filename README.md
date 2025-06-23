@@ -31,7 +31,7 @@
 <div style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="margin: 5px;" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="45" style="margin: 5px;" alt="SQL Server"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" width="40" style="margin: 5px;" alt="MongoDB"/>
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40" style="margin:5px;" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="margin: 5px;" alt="PostgreSQL"/>
 </div>
 
